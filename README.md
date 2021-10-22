@@ -1,10 +1,3 @@
-**Lucky7 fue creada por:**
-  - Jessmeivi
-  - MarieTSD
-  - reyreyreymon
-  - AlexGC5
-  - isaias9715
-
 Página web desarrollada con HTML, CSS, JS, Bootstrap y PHP.
 
 **¿Cómo usarlo?**
